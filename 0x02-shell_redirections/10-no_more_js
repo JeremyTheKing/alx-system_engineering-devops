@@ -1,0 +1,8 @@
+#!/bin/bash
+find . -name '*.js' -type f -delete
+
+Footer
+
+
+find . -name '*.js' -type f -delete
+
